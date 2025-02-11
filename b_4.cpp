@@ -7,7 +7,7 @@ int main(){
 
     for(int i = 1; i <= a; i++){
         sum+=i;
-       
+        
         (sum == 55)? cout << "***\t" : cout << sum << "\t ";
        
     }
